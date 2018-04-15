@@ -1784,8 +1784,8 @@ adapthathion->adaptation
 adapthathions->adaptations
 adapthed->adapted
 adapther->adapter
-adaption->adaptation
-adaptions->adaptations
+adaption->adaptation, adoption,
+adaptions->adaptations, adoptions
 adaptt->adapt
 adapttattion->adaptation
 adapttattions->adaptations
@@ -10409,15 +10409,11 @@ can be pperformed->can be performed
 cancaellation->cancellation
 cancatenation->concatenation
 canceellation->cancellation
-cancelation->cancellation
 cancellalion->cancellation
 cancellathion->cancellation
 cancellatiion->cancellation
-cancellation->cancelation
 cancellatioon->cancellation
 cancellattion->cancellation
-cancelled->canceled
-cancelling->canceling
 cancellllation->cancellation
 cancettation->cancellation
 candadate->candidate
@@ -12412,7 +12408,6 @@ choosse->choose
 chosae->chose
 chosaen->chosen
 chosaes->choses
-chose->choose
 chosee->chose
 choseen->chosen
 chosees->choses
@@ -13356,9 +13351,6 @@ command liine->command line
 command-liine->command-line
 command linae->command line
 command-linae->command-line
-commandline->command line
-commandline->command-line
-commandline->command line, command-line,
 command linee->command line
 command-linee->command-line
 command lline->command line
@@ -14866,7 +14858,6 @@ conformaence->conformance
 conformancae->conformance
 conformancee->conformance
 conformane->conformance
-conform->confirm
 conformiitiies->conformities
 conformiity->conformity
 conformilies->conformities
@@ -18384,7 +18375,6 @@ datatyp->datatype, data type,
 data typee->data type
 data typpe->data type
 data tyype->data type
-dat->data
 dathabase->database
 datha->data
 datha file->data file
@@ -28497,7 +28487,6 @@ for te->for the
 fortelling->foretelling
 for thae->for the
 for thee->for the
-forth->fourth
 for thhe->for the
 for thhis->for this
 forthies->forties
@@ -29511,7 +29500,6 @@ gererates->generates
 germaan->german
 germaen->german
 germal->german
-german->german
 germann->german
 germman->german
 gernerated->generated
@@ -29529,7 +29517,6 @@ getling->getting
 get;s->gets
 get's->gets
 gettetx->gettext
-gett->get
 gettiing->getting
 gettinng->getting
 getttting->getting
@@ -35004,7 +34991,6 @@ initiaitive->initiative
 initialialized->initialized
 initialiation->initialization
 initialisae->initialise
-initialisation->initialization
 initialisatioon->initialisation
 initialisee->initialise
 initialissation->initialisation
@@ -40020,7 +40006,6 @@ maco->macro
 maco-->macro
 macor->macro
 macors->macros
-macos->macros
 macpakge->package
 macroo->macro
 macroos->macros
@@ -40964,7 +40949,6 @@ mathematiccs->mathematics
 mathematiciann->mathematician
 mathematicianns->mathematicians
 mathematicianss->mathematicians
-mathematics->mathematical
 mathematicss->mathematics
 mathematiically->mathematically
 mathematiical->mathematical
@@ -42795,7 +42779,6 @@ modulle->module
 modulles->modules
 modullo->modulo
 modulues->modules
-modulus->modulo
 modute->module
 modutes->modules
 moduto->modulo
@@ -49378,8 +49361,6 @@ popullated->populated
 popullate->populate
 popullation->population
 popullations->populations
-popup->pop up
-popups->pop ups
 pop upss->pop ups
 poputarity->popularity
 poputar->popular
@@ -53051,7 +53032,6 @@ quicck->quick
 quiccly->quickly
 quicc->quick
 quicjkly->quickly
-quicker->quickly
 quickkly->quickly
 quickk->quick
 quicklly->quickly
@@ -58795,7 +58775,6 @@ settlemennt->settlement
 settlemment->settlement
 settllement->settlement
 settlment->settlement
-setts->sets
 setttement->settlement
 settting->setting
 setttings->settings
@@ -65563,7 +65542,6 @@ thorougghly->thoroughly
 thorouggh->thorough
 thoroughlly->thoroughly
 thoroughlyy->thoroughly
-thorough->through
 thoroughty->thoroughly
 thorouughly->thoroughly
 thorouugh->thorough
@@ -65571,7 +65549,7 @@ thorpedoes->torpedoes
 thorroughly->thoroughly
 thorrough->thorough
 thorughout->throughout
-thorugh->through
+thorugh->through, thorough,
 thosae->those
 thosee->those
 thoses->those
@@ -71426,7 +71404,6 @@ whitellist->whitelist
 whitelsit->whitelist
 whitespaace->whitespace
 whitespacce->whitespace
-whitespaces->whitespace
 whitespaece->whitespace
 whitespake->whitespace
 whitesppace->whitespace

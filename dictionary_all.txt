@@ -6537,7 +6537,6 @@ assembbler->assembler
 assembbles->assembles
 assembbly->assembly
 assember->assembler
-assemble->assembly
 assembledd->assembled
 assemblerr->assembler
 assemblle->assemble
@@ -7334,7 +7333,6 @@ attows->allows
 attribbute->attribute
 attribbuted->attributed
 attribbutes->attributes
-attribs->attributes
 attribtute->attribute
 attribtutes->attributes
 attribuets->attributes
@@ -10821,7 +10819,6 @@ casae of->case of
 casaes->cases
 casar->caesar
 cascad->cascade
-cascade->casade
 cas->case
 cased->caused
 casee of->case of
@@ -18362,10 +18359,8 @@ data fiile->data file
 data fiiles->data files
 data filae->data file
 data filaes->data files
-datafile->data file
 data filee->data file
 data filees->data files
-datafiles->data files
 data filess->data files
 data fille->data file
 data filles->data files
@@ -18385,8 +18380,7 @@ datastrem->data stream
 data strream->data stream
 data tsream->data stream
 data typae->data type
-datatyp->data type
-datatype->data type
+datatyp->datatype, data type,
 data typee->data type
 data typpe->data type
 data tyype->data type
@@ -23591,7 +23585,6 @@ egde->edge
 egdes->edges
  e g.->e.g.
 e.g->e.g.
-eg->e.g.
 eg.->e.g.
 eges->edges
 e.gg.->e.g.
@@ -29530,7 +29523,6 @@ gesses->guesses
 gess->guess
 gesswork->guesswork
 getaned->gelaned
-geth->get
 geththing->getting
 geting->getting
 getling->getting
@@ -30131,7 +30123,6 @@ ground sppeed->ground speed
 ground sspeed->ground speed
 grounnd speed->ground speed
 groupd->grouped
-groupid->group id
 groupiing->grouping
 groupinng->grouping
 groupp->group
@@ -35016,9 +35007,6 @@ initialisae->initialise
 initialisation->initialization
 initialisatioon->initialisation
 initialisee->initialise
-initialise->initialize
-initialises->initializes
-initialising->initializing
 initialissation->initialisation
 initialisse->initialise
 initialiting->initializing
@@ -35090,19 +35078,19 @@ initiatizer->initializer
 initiatizers->initializers
 initiatizing->initializing
 initiatty->initially
-initiliased->initialized
-initiliase->initialize
-initiliases->initializes
+initiliased->initialised
+initiliase->initialise
+initiliases->initialises
 initiliasing->initialising
 initiliazed->initialized
 initiliaze->initialize
 initiliazes->initializes
 initiliazing->initializing
-initilisation->initialization
-initilisations->initializations
-initilised->initialized
-initilise->initialize
-initilises->initializes
+initilisation->initialisation
+initilisations->initialisations
+initilised->initialised
+initilise->initialise
+initilises->initialises
 initilising->initialising
 initilization->initialization
 initilizations->initializations
@@ -43396,9 +43384,6 @@ multithreaddedd->multithreaded
 multi threadd->multi thread
 multi-threadd->multi-thread
 multithreadd->multithread
-multithread->multi thread
-multithread->multi-thread
-multithread->multi-thread, multi thread,
 multithreaeded->multithreaded
 multi threaed->multi thread
 multi-threaed->multi-thread
@@ -44136,14 +44121,12 @@ neighborrs->neighbors
 neighborss->neighbors
 neighbourhod->neighbourhood
 neighbourhoodd->neighbourhood
-neighbour->neighbor
 neighbourrhood->neighbourhood
 neighbourring->neighbouring
 neighbourr->neighbour
 neighbourrs->neighbours
-neighbours->neighbors
 neighbourss->neighbours
-neighbout->neighbor
+neighbout->neighbour
 neighbouurhood->neighbourhood
 neighbouuring->neighbouring
 neighbouur->neighbour
@@ -44574,7 +44557,6 @@ non-intteracttive->non-interactive
 nonkombatants->noncombatants
 nonkompliant->noncompliant
 nonlrivial->nontrivial
-non->none
 nonopaerational->nonoperational
 nonopeerational->nonoperational
 nonoperaationaal->nonoperational
@@ -47438,7 +47420,6 @@ parametter->parameter
 parametters->parameters
 parammeter->parameter
 parammeters->parameters
-params->parameters
 paramteres->parameters
 paramterization->parametrization, parameterization,
 paramterize->parameterize
@@ -58787,7 +58768,6 @@ setcions->sections
 setdom->seldom
 setected->selected
 setect->select
-setf->self
 seth->set
 seththing->setting
 seththings->settings
@@ -66039,7 +66019,6 @@ to developed->to be developed
 todo liist->todo list
 todo lisit->todo list
 todo lisst->todo list
-todolist->todo list
 todo lits->todo list
 todo llist->todo list
 todo tist->todo list

@@ -30348,7 +30348,6 @@ guidellines->guidelines
 guidence->guidance
 guidetine->guideline
 guidetines->guidelines
-guid->guide
 guidline->guideline
 guidlines->guidelines
 guiidance->guidance
@@ -57721,7 +57720,6 @@ satisfactorilly->satisfactorily
 satisfactorilyy->satisfactorily
 satisfactority->satisfactorily
 satisfactorrily->satisfactorily
-satisfactory->satisfaction
 satisfactroily->satisfactorily
 satisfaktion->satisfaction
 satisfaktorily->satisfactorily

@@ -936,10 +936,7 @@ accelerrated->accelerated
 accelerration->acceleration
 accellerated->accelerated
 accelleration->acceleration
-accension->accession
-accension->accession, ascension
 accension->accession, ascension,
-accension->ascension
 acceplable->acceptable
 accepl->accept
 acceplance->acceptance
@@ -1430,13 +1427,8 @@ achiieves->achieves
 achiieviing->achieving
 achitecture->architecture
 achitectures->architectures
-achive->achieve
-achive->achieve, archive
 achive->achieve, archive,
-achived->achieved
-achived->achieved, archived
 achived->achieved, archived,
-achived->archived
 achivement->achievement
 achivements->achievements
 achives->achieves
@@ -1510,10 +1502,7 @@ acknowwledges that->acknowledges that
 acknowwledging->acknowledging
 ackowledge->acknowledge
 ackowledged->acknowledged
-ackward->awkward
-ackward->awkward, backward
 ackward->awkward, backward,
-ackward->backward
 aclimatization->acclimatization
 aclivale->activate
 aclivaled->activated
@@ -1785,7 +1774,7 @@ adapthathions->adaptations
 adapthed->adapted
 adapther->adapter
 adaption->adaptation, adoption,
-adaptions->adaptations, adoptions
+adaptions->adaptations, adoptions,
 adaptt->adapt
 adapttattion->adaptation
 adapttattions->adaptations
@@ -2215,8 +2204,7 @@ adressable->addressable
 adress->address
 adressed->addressed
 adresses->addresses
-adressing->addressing
-adressing->addressing, dressing
+adressing->addressing, dressing,
 adustable->adjustable
 advaenturous->adventurous
 advaersary->adversary
@@ -3277,10 +3265,7 @@ affordss->affords
 afforementioned->aforementioned
 afforrd->afford
 afforrds->affords
-affort->afford
-affort->afford, effort
 affort->afford, effort,
-affort->effort
 affraid->afraid
 affrican->african
 affrod->afford
@@ -3457,10 +3442,7 @@ aggrressorr->aggressor
 aggrrieved->aggrieved
 agian->again
 agianst->against
-agina->again
-agina->again, angina
 agina->again, angina,
-agina->angina
 agin->again
 aginst->against
 agorithm->algorithm
@@ -4146,10 +4128,7 @@ alrocilies->atrocities
 alrogithm->algorithm
 alrready->already
 als->also
-alse->also
-alse->also, else
 alse->also, else,
-alse->else
 alsoo->also
 alsot->also
 alsso->also
@@ -4248,10 +4227,7 @@ altternattives->alternatives
 altthough->although
 alttimetter->altimeter
 alttogetther->altogether
-alusion->allusion
-alusion->allusion, illusion
 alusion->allusion, illusion,
-alusion->illusion
 alwasy->always
 alway->always
 alwayss->always
@@ -4284,9 +4260,6 @@ amatgamated->amalgamated
 amatheur->amateur
 amatteur->amateur
 amatuer->amateur
-amature->amateur
-amature->armature
-amature->armature, amateur
 amature->armature, amateur,
 ambbient->ambient
 ambbiguous->ambiguous
@@ -4460,7 +4433,6 @@ amuseed->amused
 amussed->amused
 amuused->amused
 analagous->analogous
-analises->analysis, analyses
 analises->analysis, analyses,
 analisis->analysis
 analisys->analysis
@@ -5178,8 +5150,6 @@ apemmines->apennines
 apemnines->apennines
 apended->appended
 apendix->appendix
-apenines->apennines
-apenines->apennines, apennines
 apenines->apennines, apennines,
 apenmines->apennines
 apenniines->apennines
@@ -5226,9 +5196,6 @@ apologizee->apologize
 apologizze->apologize
 apologuetics->apologetics
 apologyy->apology
-apon->apron
-apon->upon
-apon->upon, apron
 apon->upon, apron,
 apooloogetics->apologetics
 apooloogies->apologies
@@ -5286,9 +5253,6 @@ appcept->accept
 appealiing->appealing
 appealingg->appealing
 appealinng->appealing
-appealling->appalling
-appealling->appealing
-appealling->appealing, appalling
 appealling->appealing, appalling,
 appearancce->appearance
 appearancces->appearances
@@ -5320,8 +5284,6 @@ appendice->appendix
 appendiix->appendix
 appendixx->appendix
 appeneded->appended
-appenines->apennines
-appenines->apennines, apennines
 appenines->apennines, apennines,
 appennded->appended
 appenndix->appendix
@@ -5788,23 +5750,11 @@ archaeotogy->archaeology
 archaetypae->archetype
 archaetypaes->archetypes
 archaiic->archaic
-archaoelogy->archaeology
-archaoelogy->archeology
-archaoelogy->archeology, archaeology
 archaoelogy->archeology, archaeology,
 archaologist->archaeologist
 archaologists->archaeologists
-archaology->archaeology
-archaology->archeology
-archaology->archeology, archaeology
 archaology->archeology, archaeology,
-archeaologist->archaeologist
-archeaologist->archeologist
-archeaologist->archeologist, archaeologist
 archeaologist->archeologist, archaeologist,
-archeaologists->archaeologists
-archeaologists->archeologists
-archeaologists->archeologists, archaeologists
 archeaologists->archeologists, archaeologists,
 archeaology->archaeology
 archeeologist->archeologist
@@ -7198,10 +7148,7 @@ attaindaer->attainder
 attaindder->attainder
 attaindeer->attainder
 attainderr->attainder
-attaindre->attainder
-attaindre->attainder, attained
 attaindre->attainder, attained,
-attaindre->attained
 attainedd->attained
 attaineed->attained
 attainn->attain
@@ -8159,10 +8106,7 @@ bannannas->bananas
 banndwidth->bandwidth
 bannkruptcy->bankruptcy
 banruptcy->bankruptcy
-baout->about
-baout->about, bout
 baout->about, bout,
-baout->bout
 basae->base
 basaed on->based on
 basaelinae->baseline
@@ -8435,9 +8379,6 @@ becaeuse i->because i
 becaeuse of->because of
 becaise->because
 becamae->became
-becames->became
-becames->becomes
-becames->becomes, became
 becames->becomes, became,
 becamme->became
 becase->because
@@ -8502,7 +8443,6 @@ beehavior->behavior
 beehaviour->behaviour
 beehind->behind
 beeing->being
-beeing seent->being sent
 beeleeagueereed->beleaguered
 beelgium->belgium
 beelieef->belief
@@ -8548,9 +8488,6 @@ befroe->before
 beggggingg->begging
 beggging->begging
 beggiing->begging
-beggin->begging
-beggin->begin
-beggin->begin, begging
 beggin->begin, begging,
 begginer->beginner
 begginers->beginners
@@ -8619,10 +8556,7 @@ behaviouur->behaviour
 behaviro->behavior
 behavoir->behavior
 behavoirs->behaviors
-behavour->behavior
-behavour->behavior, behaviour
 behavour->behavior, behaviour,
-behavour->behaviour
 behavvior->behavior
 behavviour->behaviour
 behhavior->behavior
@@ -8680,7 +8614,6 @@ belgiuum->belgium
 beliefable->believable
 beliefe->believe, belief,
 beliefed->believed
-beliefes->beliefs, believes
 beliefes->beliefs, believes,
 belieff->belief
 belieffs->beliefs
@@ -8712,13 +8645,7 @@ beliieviing->believing
 belivable->believable
 beliv->believe, belief,
 belive->believe
-belived->believed
-belived->believed, beloved
 belived->believed, beloved,
-belived->beloved
-belives->beliefs
-belives->believes
-belives->believes, beliefs
 belives->believes, beliefs,
 beliving->believing
 belleaguered->beleaguered
@@ -9144,10 +9071,6 @@ boaet->boat
 boal->boat
 boath->boat
 boatt->boat
-boaut->about
-boaut->boat
-boaut->bout
-boaut->bout, boat, about
 boaut->bout, boat, about,
 boddybuildder->bodybuilder
 bodybuiilder->bodybuilder
@@ -9755,12 +9678,7 @@ buriedd->buried
 burieed->buried
 buriied->buried
 buriin->burin
-buring->burin
-buring->burning
-buring->burying
-buring->burying, burning, burin, during
 buring->burying, burning, burin, during,
-buring->during
 burinn->burin
 burniing->burning
 burningg->burning
@@ -9788,10 +9706,7 @@ busineess->business
 busineessees->businesses
 busineessman->businessman
 busines->business
-busineses->business
-busineses->business, businesses
 busineses->business, businesses,
-busineses->businesses
 businesman->businessman
 businessmaan->businessman
 businessmaen->businessman
@@ -10142,11 +10057,7 @@ calaendaer->calender
 calaendar->calendar
 calaendars->calendars
 calalina->catalina
-calander->calendar
-calander->calendar, calender, colander
 calander->calendar, calender, colander,
-calander->calender
-calander->colander
 calaslrophic->catastrophic
 calback->callback
 calbacks->callbacks
@@ -10642,9 +10553,6 @@ caraeful->careful
 caraefully->carefully
 carakas->caracas
 carat->caret
-carcas->caracas
-carcas->carcass
-carcas->carcass, caracas
 carcas->carcass, caracas,
 carcassss->carcass
 careeeer->career
@@ -10702,10 +10610,7 @@ carnagie-mellon->carnegie-mellon
 carnague->carnage
 carneegiee->carnegie
 carneegiee-meellon->carnegie-mellon
-carnege->carnage
-carnege->carnage, carnegie
 carnege->carnage, carnegie,
-carnege->carnegie
 carneggie->carnegie
 carneggie-mellon->carnegie-mellon
 carnegie-mellllon->carnegie-mellon
@@ -10714,10 +10619,7 @@ carnegie-melon->carnegie-mellon
 carnegie-metton->carnegie-mellon
 carnegiie->carnegie
 carnegiie-mellon->carnegie-mellon
-carnige->carnage
-carnige->carnage, carnegie
 carnige->carnage, carnegie,
-carnige->carnegie
 carnigie->carnegie
 carnigie-mellon->carnegie-mellon
 carniivorous->carnivorous
@@ -10880,9 +10782,6 @@ catagorization->categorization
 catagorized->categorized
 catagory->category
 cataliina->catalina
-cataline->catalina
-cataline->catiline
-cataline->catiline, catalina
 cataline->catiline, catalina,
 catalinna->catalina
 catallina->catalina
@@ -11728,10 +11627,7 @@ censro->censor
 censsor->censor
 censsure->censure
 censsuss->census
-censur->censor
-censur->censor, censure
 censur->censor, censure,
-censur->censure
 censurre->censure
 censuure->censure
 censuus->census

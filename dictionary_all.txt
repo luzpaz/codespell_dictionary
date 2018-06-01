@@ -10422,6 +10422,9 @@ calcable->calculable
 calcalation->calculation
 calch->catch
 calclate->calculate
+calcluate->calculate
+calcluated->calculated
+calcluates->calculates
 calcluation->calculation
 calcluations->calculations
 calclulate->calculate
@@ -19629,6 +19632,8 @@ decoposes->decomposes
 decoraded->decorated
 decoratrion->decoration
 decraese->decrease
+decraesing->deceasing, decreasing,
+decrasing->deceasing, decreasing,
 decreaase->decrease
 decreaese->decrease
 decreas->decrease
@@ -19649,6 +19654,7 @@ decrementtor->decrementor
 decremment->decrement
 decremmentor->decrementor
 decres->decrees
+decresing->deceasing, decreasing,
 decresing->decreasing
 decress->decrees
 decribed->described
@@ -34388,6 +34394,8 @@ impelement->implemented
 impelemnted->implemented
 impementation->implementation
 impementations->implementations
+impemented->implemented
+impements->implements
 imperiaal->imperial
 imperiael->imperial
 imperiall->imperial
@@ -63799,6 +63807,7 @@ staation->station
 staatistics->statistics
 staatus->status
 staayed->stayed
+stabalization->stabilization
 stabalizing->stabilizing
 stabbility->stability
 stabbilize->stabilize

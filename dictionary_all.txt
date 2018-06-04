@@ -69280,7 +69280,10 @@ tranversing->traversing
 trasaction->transaction
 trascation->transaction
 trasfered->transferred
+traslated->translated
 traslates->translates
+traslate->translate
+traslating->translating
 traslations->translations
 traslation->translation
 trasmission->transmission

@@ -59445,7 +59445,6 @@ rusian->russian
 russiaan->russian
 russiaen->russian
 russiann->russian
-russian->russian
 russiian->russian
 russina->russian
 russion->russian

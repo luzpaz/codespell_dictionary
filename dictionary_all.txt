@@ -4151,6 +4151,7 @@ almosth->almost
 almostt->almost
 almots->almost
 almsot->almost
+alo->also
 alocate->allocate
 alocated->allocated
 alocates->allocates
@@ -7595,6 +7596,7 @@ auditas->audits
 audiths->audits
 auditss->audits
 auditts->audits
+auguest->august
 augument->argument
 auhtenticate->authenticate
 auhtentication->authentication
@@ -12577,6 +12579,7 @@ cheemically->chemically
 cheemistry->chemistry
 cheif->chief
 cheifs->chiefs
+chekc->check
 chek->check
 chekd->checked
 cheked->checked
@@ -13715,6 +13718,7 @@ commaents->comments
 commaercial->commercial
 commaercially->commercially
 commaes->commas
+comman->command, common,
 commandaeaer->commandeer
 commandaer->commander
 commandd->command
@@ -52397,6 +52401,7 @@ predominnately->predominately
 predomminately->predominately
 predoominately->predominately
 preeamblee->preamble
+preeceding->preceding
 preeceedeed->preceded
 preeceedeencee->precedence
 preeceedeencees->precedences
@@ -56785,7 +56790,7 @@ regisstry->registry
 registed->registered
 registeing->registering
 registeration->registration
-registerd->registered
+registerd->registers, registered,
 registeredd->registered
 registe->register
 registeres->registers
@@ -57997,6 +58002,7 @@ resettingg->resetting
 resettinng->resetting
 resetttted->resetted
 resetttting->resetting
+reseverd->reserved
 resevered->reserved
 resevoir->reservoir
 resgister->register
@@ -65535,6 +65541,7 @@ suikidal->suicidal
 suikide->suicide
 suile of->suite of
 suitae of->suite of
+suiteable->suitable
 suitee of->suite of
 suite off->suite of
 suite oof->suite of

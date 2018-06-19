@@ -20095,6 +20095,9 @@ degenaration->degeneration
 deggrade->degrade
 deggradingg->degrading
 deggrees->degrees
+degnerated->degenerated
+degnerate->degenerate
+degnerates->degenerates
 degraade->degrade
 degraading->degrading
 degradiing->degrading

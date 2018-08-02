@@ -4239,6 +4239,7 @@ alreeady->already
 alrocilies->atrocities
 alrogithm->algorithm
 alrready->already
+alrteady->already
 als->also
 alse->also, else,
 alsoo->also
@@ -9649,6 +9650,7 @@ branchees->branches
 branchess->branches
 branchh->branch
 branchhes->branches
+brane->brain
 brankh->branch
 brankhes->branches
 brannch->branch
@@ -9992,6 +9994,7 @@ bultin->builtin
 bulton->button
 bumb->bump
 bumpded->bumped
+bundeled->bundled
 buoancy->buoyancy
 buooyancy->buoyancy
 buooyant->buoyant
@@ -10511,6 +10514,7 @@ calculattions->calculations
 calculattor->calculator
 calculaution->calculation
 calculautions->calculations
+calculcation->calculation
 calculs->calculus
 calcultae->calculate
 calcultate->calculate
@@ -20416,6 +20420,7 @@ depaertmentael->departmental
 depaertment->department
 depaertments->departments
 depandancies->dependencies
+depandent->dependent
 deparlmenlal->departmental
 deparlmenl->department
 deparlmenls->departments
@@ -20724,6 +20729,7 @@ describ->describe
 describingg->describing
 describinng->describing
 describs->describes
+descrie->describe
 descriibed->described
 descriibe->describe
 descriibes->describes
@@ -22103,6 +22109,7 @@ diplomancy->diplomacy
 diplommacy->diplomacy
 diploomacy->diplomacy
 dipose->dispose, depose,
+diposing->disposing
 dipphthong->diphthong
 dipphthongs->diphthongs
 dipplomacy->diplomacy
@@ -26906,6 +26913,7 @@ exclludes->excludes
 excllusivelly->exclusively
 excluddes->excludes
 excludess->excludes
+excludind->excluding
 exclusiively->exclusively
 exclusiveely->exclusively
 exclusivelyy->exclusively
@@ -33626,6 +33634,7 @@ ignoreed->ignored
 ignorence->ignorance
 ignorred->ignored
 ignroed->ignored
+igoned->ignored
 igored->ignored
 igore->ignore
 igores->ignores
@@ -37006,6 +37015,7 @@ installataion->installation
 installataions->installations
 installatation->installation
 installatin->installation
+installationa->installation
 installatioon->installation
 installedd->installed
 installeed->installed
@@ -40432,6 +40442,7 @@ lightting->lighting
 lightt year->light year
 lightt years->light years
 lightweigh->lightweight
+lightwight->lightweight
 light yaear->light year
 light yaears->light years
 light yaer->light year
@@ -46038,6 +46049,7 @@ nodel->model
 nodels->models
 nodifiable->modifiable
 noe->not, no, know,
+noe->not, no, node, know,
 noes->nodes
 nofified->notified
 nohypen->nohyphen
@@ -48155,6 +48167,7 @@ orignally->originally
 orignal->original
 orignially->originally
 origninal->original
+orign->origin
 oriigiinally->originally
 oriigiinal->original
 oriigiinatiion->origination
@@ -52813,6 +52826,7 @@ previlege->privilege
 previoously->previously
 previoous->previous
 previosly->previously
+previos->previos
 previosuly->previously
 previouly->previously
 previou->previous
@@ -56769,6 +56783,8 @@ regardss->regards
 regardtess->regardless
 regaring->regarding
 regarless->regardless
+regeistered->registered
+regeister->register
 regestered->registered
 regestry->registry
 regexess->regexes
@@ -66695,8 +66711,11 @@ sytemd->systemd
 sytems->systems
 sytem->system
 sythesis->synthesis
+sytled->styled
 sytlesheet->stylesheet
+sytles->styles
 sytle->style
+sytling->styling
 sytsematically->systematically
 sytsems->systems
 sytsem->system
@@ -67820,6 +67839,7 @@ thickaening->thickening
 thickeening->thickening
 thickeningg->thickening
 thickenninng->thickening
+thicking->thinking, thickening,
 thickkening->thickening
 thicklening->thickening
 thieef->thief
@@ -68314,6 +68334,7 @@ timne->time
 timout->timeout
 timsort->timesort
 tim->time
+tim->time, tim, disabled due to being a person's name
 tinear->linear
 tinguistic->linguistic
 tinguistics->linguistics
@@ -68395,6 +68416,7 @@ to be devveloped->to be developed
 to bee deeveelopeed->to be developed
 to bee->to be
 to be send->to be sent
+tobot->robot
 tocated->located
 tocation->location
 tocat->local
@@ -74022,6 +74044,7 @@ whiped->wiped
 whishes->wishes
 whishlist->wishlist
 whish->wish
+whis->this
 whitaelist->whitelist
 whitaespacae->whitespace
 whitae->white
@@ -74115,6 +74138,7 @@ widespreaed->widespread
 widesprread->widespread
 widesread->widespread
 widesspread->widespread
+widgit->widget
 widht->width
 widlcarded->wildcarded
 widnows->windows
@@ -74697,6 +74721,7 @@ wraping->wrapping, warping,
 wrappiing->wrapping
 wrappingg->wrapping
 wrappinng->wrapping
+wrappng->wrapping
 wrapppping->wrapping
 wrapps->wraps
 wrapp->wrap

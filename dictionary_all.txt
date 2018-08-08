@@ -21341,6 +21341,7 @@ devasthathed->devastated
 devasthathing->devastating
 devasttatted->devastated
 devasttatting->devastating
+devation->deviation
 devations->deviations
 devatsated->devastated
 devatsating->devastating
@@ -21710,6 +21711,7 @@ difference bettween->difference between
 difference betwen->difference between
 difference betwween->difference between
 differencess->differences
+differencial->differential
 differenciated->differentiated
 differenciate->differentiate
 differenciates->differentiates
@@ -55812,6 +55814,7 @@ receivershipp->receivership
 receiversship->receivership
 receiverss->receivers
 receivess->receives
+receiviing->receiving
 receivingg->receiving
 receivinng->receiving
 receiv->receive

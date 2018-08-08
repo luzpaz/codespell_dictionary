@@ -10859,6 +10859,7 @@ capabilitys->capabilities
 capabilityy->capability
 capabillities->capabilities
 capabillity->capability
+capabilty->capability
 capabitities->capabilities
 capabitity->capability
 capablae->capable
@@ -24469,6 +24470,7 @@ eilher->either
 einstance->instance
 eiter->either
 eiterh->either
+either either->either
 eitherr->either
 eithher->either
 eitther->either
@@ -26734,6 +26736,7 @@ examiined->examined
 examinated->examined
 examinedd->examined
 examin->examine, examining,
+examinining->examining
 examinned->examined
 examle->example
 exammined->examined
@@ -32270,6 +32273,7 @@ heredily->heredity
 heredithy->heredity
 hereditty->heredity
 heredityy->heredity
+heree->here
 here iis->here is
 here iss->here is
 heres->here is

@@ -4212,6 +4212,7 @@ alphannumeric->alphanumeric
 alphanumaeric->alphanumeric
 alphanumberic->alphanumeric
 alphanumeeric->alphanumeric
+alpha-numeric->alphanumeric
 alphanumericc->alphanumeric
 alphanumeriic->alphanumeric
 alphanumerik->alphanumeric
@@ -18072,6 +18073,7 @@ cppckeck->cppcheck
 cppecheck->cppcheck
 cppppcheck->cppcheck
 craashes->crashes
+craches->caches
 craeaeping->creeping
 craeatae->create
 craeataed->created
@@ -62219,6 +62221,7 @@ sofftlink->softlink
 sofftware project->software project
 sofftware->software
 sofftware tools->software tools
+sofisticated->sophisticated
 sofllink->softlink
 soflware lools->software tools
 soflware projecl->software project

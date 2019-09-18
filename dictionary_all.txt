@@ -6248,6 +6248,10 @@ argumant->argument
 argumants->arguments
 argumeent->argument
 argumeents->arguments
+argumemnt->argument
+argumemnts->arguments
+argumeng->argument
+argumengs->arguments
 argumenl->argument
 argumenls->arguments
 argumennt->argument
@@ -22946,6 +22950,10 @@ dislinguish->distinguish
 dislinguished->distinguished
 dislinguishes->distinguishes
 dislinguishing->distinguishing
+dislpay->display
+dislpayed->displayed
+dislpaying->displaying
+dislpays->displays
 dislplay->display
 dislribuled->distributed
 dislribulion->distribution
@@ -28139,6 +28147,8 @@ externnal->external
 exterrnal->external
 extesion->extension
 extesions->extensions
+extesnion->extension
+extesnions->extensions
 exthanth->extant
 exthended->extended
 exthension->extension
@@ -64674,7 +64684,6 @@ stack poinnter->stack pointer
 stack pointaer->stack pointer
 stack pointeer->stack pointer
 stack pointerr->stack pointer
-stackpointer->stack pointer
 stack poointer->stack pointer
 stack ppointer->stack pointer
 stadard->standard
@@ -68777,6 +68786,8 @@ thoughout->throughout
 thought->though
 thougth->thought
 thougt->thought
+thouroughly->thoroughly
+thourough->thorough
 thousaands->thousands
 thousaand->thousand
 thousaends->thousands

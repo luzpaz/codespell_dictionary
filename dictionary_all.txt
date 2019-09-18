@@ -2068,6 +2068,7 @@ aditionally->additionally
 aditionaly->additionally
 adivce->advice, advise,
 adivisory->advisory
+adivsory->advisory
 adjacaent->adjacent
 adjaccent->adjacent
 adjaceent->adjacent
@@ -3950,6 +3951,7 @@ a linnux->a linux
 a linuux->a linux
 a linuxx->a linux
 alising->aliasing
+alittude->altitude
 aliver->alive, liver,
 alkohol->alcohol
 alkoholik->alcoholic
@@ -24808,7 +24810,7 @@ efucational->educational
 egde->edge
 egdes->edges
 ege->edge
- e g.->e.g.
+e g.->e.g.
 e.g->e.g.
 eg.->e.g.
 eges->edges

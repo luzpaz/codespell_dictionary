@@ -7162,6 +7162,7 @@ asuming->assuming
 asumption->assumption
 asumptions->assumptions
 asurance->assurance
+asure->assure
 as waell->as well
 as weell->as well
 as wel->as well
@@ -27468,6 +27469,9 @@ executtes->executes
 executting->executing
 executtion->execution
 executuon->execution
+execututed->executed
+executute->execute
+execututes->executes
 execuutable->executable
 execuuted->executed
 execuute->execute
@@ -65846,6 +65850,7 @@ subrouthine->subroutine
 subroutiine->subroutine
 subroutinae->subroutine
 subroutinee->subroutine
+subrouting->subroutine
 subroutinne->subroutine
 subrouttine->subroutine
 subrroutine->subroutine

@@ -16677,7 +16677,6 @@ contaiminating->contaminating
 containa->contain
 containaer->container
 containaers->containers
-containe->contain, contained, container,
 containe->contain, contained, container, contains,
 containeer->container
 containeers->containers
@@ -16694,7 +16693,6 @@ containings->containing
 containint->containing
 containn->contain
 containss->contains
-containt->contain
 containt->contain, content,
 containted->contained
 containting->containing
@@ -16714,16 +16712,12 @@ contan->contain
 contaned->contained
 contaning->containing
 contans->contains
-contant->constant
 contant->constant, content,
-contant->contact
 contant->contact, constant,
-contants->constants
 contants->constants, contents,
 contaoin->contain
 contaoined->contained
 contaoins->contains
-contast->contrast
 contast->contrast, contest,
 contatc->contact
 contatenate->concatenate
@@ -27769,7 +27763,7 @@ expaension->expansion
 expaetriaete->expatriate
 expalin->explain
 expalriale->expatriate
-expanation->expatiation
+expanation->explanation
 expandabbility->expandability
 expandabiiliity->expandability
 expandabilily->expandability
@@ -35905,7 +35899,6 @@ incrementaal->incremental
 incrementaally->incrementally
 incrementael->incremental
 incrementaelly->incrementally
-incrementall->incremental
 incrementall->incremental, incrementally,
 incrementalllly->incrementally
 incrementallyy->incrementally
@@ -39235,7 +39228,7 @@ ittegitimacy->illegitimacy
 ittegitimate->illegitimate
 ittem->item
 it ten came->it then came
-itteration->itteration
+itteration->iteration
 itterations->iterations
 itterator->iterator
 itterators->iterators
@@ -46269,9 +46262,7 @@ neighbbour->neighbour
 neighbbours->neighbours
 neighboorhooood->neighborhood
 neighbooring->neighboring
-neighboor->neighbor
 neighboor->neighbor, neighbour,
-neighboors->neighbors
 neighboors->neighbors, neighbours,
 neighboourhooood->neighbourhood
 neighboouring->neighbouring
@@ -67784,7 +67775,6 @@ taext box->text box
 taeylor series->taylor series
 taged->tagged
 tages->stages
-tage->stage
 tage->stage, take, tag, tagged,
 taget->target
 tagnetial->tangential
@@ -70102,7 +70092,6 @@ transfering->transferring
 transferredd->transferred
 transferriing->transferring
 transferringg->transferring
-transfert->transfer
 transfert->transfer, transferred,
 transfferred->transferred
 transfferring->transferring
@@ -75345,7 +75334,6 @@ withdrrawal->withdrawal
 withdrraw->withdraw
 withd->width
 witheld->withheld
-wither->either
 wither->wither, either, whether, weather,
 withespace->whitespace
 withe->with

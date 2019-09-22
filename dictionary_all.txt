@@ -36775,7 +36775,7 @@ initiaitive->initiative
 initiales->initialize, initializes, initials, initialise, initialises,
 initialialized->initialized
 initialialize->initialize
-initialiase->initialise, initialize,
+initialiase->initialise
 initialiation->initialization
 initialied->initialized
 initialilzing->initializing
@@ -36823,20 +36823,20 @@ initiallizers->initializers
 initiallizing->initializing
 initialllly->initially
 initiallyy->initially
-initialsed->initialised, initialized,
+initialsed->initialised
 initialsed->initialized
-initialse->initialise, initialize,
+initialse->initialise
 initialse->initialize
-initialses->initialises, initializes,
+initialses->initialises
 initialses->initializes
 initialy->initially
-initialysed->initialised, initialized,
+initialysed->initialised
 initialysed->initialized
-initialyse->initialise, initialize,
+initialyse->initialise
 initialyse->initialize
-initialyses->initialises, initializes,
+initialyses->initialises
 initialyses->initializes
-initialysing->initialising, initializing,
+initialysing->initialising
 initialysing->initializing
 initialyzed->initialized
 initialyze->initialize
@@ -36866,22 +36866,22 @@ initiatizer->initializer
 initiatizers->initializers
 initiatizing->initializing
 initiatty->initially
-initiliased->initialised, initialized,
-initiliase->initialise, initialize,
-initiliases->initialises, initializes,
+initiliased->initialised
+initiliase->initialise
+initiliases->initialises
 initiliasing->initialising
-initiliasing->initialising, initializing,
+initiliasing->initialising
 initiliazed->initialized
 initiliaze->initialize
 initiliazes->initializes
 initiliazing->initializing
-initilisation->initialisation, initialization,
-initilisations->initialisations, initializations,
-initilised->initialised, initialized,
-initilise->initialise, initialize,
-initilises->initialises, initializes,
+initilisation->initialisation
+initilisations->initialisations
+initilised->initialised
+initilise->initialise
+initilises->initialises
 initilising->initialising
-initilising->initialising, initializing,
+initilising->initialising
 initilization->initialization
 initilizations->initializations
 initilized->initialized

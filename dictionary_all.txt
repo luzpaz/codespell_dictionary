@@ -48029,7 +48029,7 @@ once agaiin->once again
 once aggain->once again
 oncee again->once again
 once nice->one nice
-onces->once, ones,
+onces->ounces, once, ones,
 ond->one
 onece->once
 onee nicee->one nice

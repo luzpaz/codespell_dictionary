@@ -42407,11 +42407,8 @@ makng->making
 makr->make
 makro->macro
 makros->macros
-makse->makes
 makse->makes, masks,
-maks->mask
 maks->mask, makes, make,
-makss->masks
 makss->masks, makes,
 malccolm->malcolm
 malching->matching
@@ -48032,7 +48029,6 @@ once agaiin->once again
 once aggain->once again
 oncee again->once again
 once nice->one nice
-onces->once
 onces->once, ones,
 ond->one
 onece->once

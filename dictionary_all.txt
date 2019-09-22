@@ -6810,6 +6810,7 @@ assembbler->assembler
 assembbles->assembles
 assembbly->assembly
 assember->assembler
+assemblare->assemble
 assembledd->assembled
 assemblerr->assembler
 assemblle->assemble
@@ -27763,7 +27764,9 @@ expaension->expansion
 expaetriaete->expatriate
 expalin->explain
 expalriale->expatriate
-expanation->explanation
+expanation->explanation, expansion,
+expanations->explanations, expansions,
+expanatory->explanatory
 expandabbility->expandability
 expandabiiliity->expandability
 expandabilily->expandability
@@ -31659,7 +31662,8 @@ graphhviz->graphviz
 graphicall->graphical
 graphicat->graphical
 graphiccal->graphical
-graphic->graphical
+graphiclly->graphically
+graphie->graphite
 graphiical->graphical
 graphikal->graphical
 graphiz->graphviz
@@ -44893,6 +44897,7 @@ modulles->modules
 modullo->modulo
 modulu->modulus, modulo,
 modulues->modules
+modulu->modulus, modulo, module,
 modute->module
 modutes->modules
 moduto->modulo

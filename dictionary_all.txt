@@ -26356,6 +26356,16 @@ episoode->episode
 episoodes->episodes
 epissode->episode
 epissodess->episodes
+epitamy->epitome
+epitomie->epitome
+eplicite->explicit
+eplicitely->explicitly
+eplicit->explicit
+epliepsy->epilepsy
+epliogue->epilogue
+eploit->exploit
+eploits->exploits
+epmty->empty
 eppisode->episode
 eppisodes->episodes
 eprom->eeprom

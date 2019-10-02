@@ -76058,6 +76058,7 @@ yaers->years
 yaer->year
 yakhting->yachting
 yakht->yacht
+yamaka->yarmulke
 yatch->yacht
 yau->you, yaw,
 yeaarly->yearly
@@ -76099,18 +76100,17 @@ yemenithe->yemenite
 yemenitte->yemenite
 yemennite->yemenite
 yemenni->yemeni
-yementite->yemeni
-yementite->yemenite
-yementite->yemenite, yemeni
 yementite->yemenite, yemeni,
 yemmenite->yemenite
 yemmeni->yemeni
 yeras->years
 yera->year
 yersa->years
+yesturday->yesterday
 yettow->yellow
 yiaelding->yielding
 yiaeld->yield
+yidish->yiddish
 yieelding->yielding
 yieeld->yield
 yieldding->yielding
@@ -76124,7 +76124,10 @@ yietding->yielding
 yietd->yield
 yiieldiing->yielding
 yiield->yield
+ymaha->yamaha
 ymbols->symbols
+yoesmite->yosemite
+yoman->woman
 yon->you
 yoou are at->you are at
 yoou're->you're
@@ -76134,7 +76137,16 @@ yoousef->yousef
 yooutube->youtube
 yoou've->you've
 yoou->you
+yorksher->yorkshire
+yorkshie->yorkshire
+yorkshrie->yorkshire
+yorself->yourself
+yorskhire->yorkshire
+yosemeti->yosemite
+yosemitie->yosemite
+yosimete->yosemite
 yotube->youtube
+yot->yacht
 you aare aat->you are at
 you aere aet->you are at
 you arae at->you are at
@@ -76143,29 +76155,39 @@ you are ath->you are at
 you are att->you are at
 you aree at->you are at
 you arre at->you are at
+youforic->euphoric
 youir->your
+you'ld->you would
+youlogy->eulogy
 youlube->youtube
+youngents->youngest
+younget->youngest
+youn->your, you, young,
 you'rae->you're
 your at->you are at
+yourcomain->yourdomain
+yourcontrycode->yourcountrycode
 you'ree->you're
-youre->you're
-youre->your, you're,
+youre->you're, your,
 you'rre->you're
 yourrself->yourself
-yourr->your
+yourr->your, you're,
 yoursaelf->yourself
 yourseelf->yourself
+yourselfes->yourselves
 yourselff->yourself
 yoursellf->yourself
+yourselvs->yourselves
 yoursetf->yourself
+yoursleves->yourselves
 yoursself->yourself
 your your->your
 yousaef->yousef
 youseef->yousef
 youseff->yourself, yousef,
-youseff->yousef
 youself->yourself
 youssef->yousef
+youthinasia->euthanasia
 youthube->youtube
 youttube->youtube
 youtubae->youtube
@@ -76187,8 +76209,11 @@ you'v->you've
 you you->you
 ypes->types
 yrea->year
+yse->yes, use, nyse,
 ytou->you
+yuforic->euphoric
 yugoslac->yugoslav
+yuor->your
 yuo->you
 yur->your
 yyachting->yachting

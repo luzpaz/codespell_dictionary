@@ -76011,16 +76011,25 @@ wysiwygg->wysiwyg
 wyssiwyg->wysiwyg
 wyysiwyyg->wysiwyg
 xaenophobia->xenophobia
+xcalibrare->xcalibrate
+xdescribe->describe
 xdpf->xpdf
 xeenophobia->xenophobia
 xennophobia->xenophobia
 xenoophoobia->xenophobia
 xenophhobia->xenophobia
+xenophibia->xenophobia
+xenophibic->xenophobic
 xenophobbia->xenophobia
 xenophobiaa->xenophobia
 xenophobiae->xenophobia
+xenophobical->xenophobic, xenophobia,
 xenophobiia->xenophobia
+xenophoblic->xenophobic
 xenophoby->xenophobia
+xenophonic->xenophobic
+xenophopia->xenophobia
+xenophopic->xenophobic
 xenopphobia->xenophobia
 xinitiazlize->xinitialize
 xmdoel->xmodel
